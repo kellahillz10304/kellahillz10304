@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @kellahillz10304
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, cloud computing, and UX/UI Design and research. 
+- 🌱 I’m currently learning HTML, CSS, Python, cloud computing, and UX/UI Design and research. 
 - 💞️ I’m looking to network and collaborate with others
 - 📫 How to reach me: kcgmiami.com
+                      https://twitter.com/christophaa
                       ckell092 on Discord 
--                     https://twitter.com/christophaa
+-                     
               
 
 <!---
